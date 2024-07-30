@@ -1,0 +1,135 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    line-height: 1.6;
+    background-color: #c4bbf0;
+}
+
+.first-color { 
+	background: #363b4e; 
+}
+	
+.second-color { 
+	background: #4f3b78; 
+}
+
+.third-color { 
+	background: #927fbf; 
+}
+
+.fourth-color { 
+	background: #c4bbf0; 
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 5em;
+    color: #c4bbf0;
+    font-family: Montez;
+    margin: 0px 0px -50px 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    color: #c4bbf0;
+    font-family: Montez;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+header {
+    border-radius: 0px 0px 10px 10px;
+}
+
+p {
+    margin-bottom: 20px;
+    float: left;
+    max-width: 50%;
+    color: #4f3b78;
+    font-size: 3em;
+    font-family: Montez;
+    margin-left: 5%;
+}
+
+/* Estilos para la imagen */
+#muestra {
+    max-width: 35%;
+    float: right;
+    border: 2px solid #4f3b78;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 5%;
+}
+
+/* Estilos para la tabla */
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#img_tabla {
+    max-width: 200px;
+    max-height: 200px;
+    margin-bottom: -10px;
+}
+
+th {
+    font-family: Montez;
+    font-size: 2em;
+    padding: 1%;
+    background-color: #363b4e;
+    color: #c4bbf0;
+}
+
+#centrado {
+    padding: 0px 10%;
+}
+
+table, th, td {
+    border: 1px solid #927fbf;
+}
+
+td {
+    text-align: center;
+    font-family: Sofia;
+    font-size: 1.4em;
+}
+
+/* Estilos para el video */
+
+#descripcion {
+    font-size: 2em; 
+    text-align: center; 
+    color: black;
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+video {
+    align-items: center;
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+#facebook {
+    color: black; 
+    background-color: #927fbf;
+    font-size: 1.8em;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+}
